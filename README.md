@@ -21,3 +21,5 @@ TO run the Java RPC server
 and to run both client and server on the same process
 
     $ mvn exec:java -Dexec.mainClass=com.github.elazar.hadoop.examples.HadoopRPC
+    
+Some documentation https://cwiki.apache.org/confluence/display/HADOOP2/HadoopRpc
